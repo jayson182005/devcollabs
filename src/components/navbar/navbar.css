@@ -30,7 +30,7 @@ nav a:hover{
     color: var(--color-white);
     opacity: 300%
 }
-
+ 
 nav a.active {
     background: var(--color-bg);
     color: var(--color-bg);

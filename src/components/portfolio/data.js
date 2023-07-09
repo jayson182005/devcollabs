@@ -22,7 +22,7 @@ const data = [
     },
     {
         id: 3,
-        image: IMG3,
+        image: IMG3, 
         title: 'Print Studio Website',
         github: 'https://github.com',
         demo: 'https://dribbble.com/Alien_pixels'
